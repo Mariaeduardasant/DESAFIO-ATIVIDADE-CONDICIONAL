@@ -1,0 +1,19 @@
+img{
+    position: fixed;
+    align-items: center;
+    top: 200px;
+    left: 10px;
+    width: 400px;
+    height: 350px;
+   margin-left: 10%;
+}
+
+.form{
+    position: fixed;
+    height: 470px;
+    width: 480;
+    left: 420px;
+    top: 195px;
+    margin-left: 10%;
+    
+}
